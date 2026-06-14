@@ -1,6 +1,3 @@
-﻿# AI_Assistant_Project
-A local AI tutor web app using Ollama + Mistral + Streamlit. Features multi-turn chat, subject & difficulty selection, and a structured system prompt designed to minimize hallucinations.
-
 # 🎓 EduMind — AI-Powered Academic Tutor
 
 <p align="center">
